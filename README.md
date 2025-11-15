@@ -21,7 +21,7 @@
 Inference:
 </h4>
 <ul>
-<li>Install the github repository and run the file by running the command ```python inference.py```
+<li>Install the github repository and run the file by running the command <b>python inference.py</b>
 </ul>
 
 <h4>
