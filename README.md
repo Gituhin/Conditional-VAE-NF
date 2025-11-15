@@ -21,13 +21,13 @@
 Inference:
 </h4>
 <ul>
-<li>Install the github repository and run the file by running the command `python inference.py`
+<li>Install the github repository and run the file by running the command ```python inference.py```
 </ul>
 
 <h4>
 Generated Samples:
+</h4>
 <img src="test\Sample_image_1.png", width="587" height="201"><br>
 <img src="test\Sample_image_2.png", width="587" height="201"><br>
 <img src="test\Sample_image_3.png", width="587" height="201">
-</h4>
 <p align="right">(<a href="#top">back to top</a>)</p>
