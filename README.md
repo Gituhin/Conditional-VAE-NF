@@ -27,7 +27,7 @@ Inference:
 <h4>
 Generated Samples:
 </h4>
-<img src="test\Sample_image_1.png", width="587" height="201"><br>
-<img src="test\Sample_image_2.png", width="587" height="201"><br>
-<img src="test\Sample_image_3.png", width="587" height="201">
+<img src="Inference_data\Sample_image_1.png", width="587" height="201"><br>
+<img src="Inference_data\Sample_image_2.png", width="587" height="201"><br>
+<img src="Inference_data\Sample_image_3.png", width="587" height="201">
 <p align="right">(<a href="#top">back to top</a>)</p>

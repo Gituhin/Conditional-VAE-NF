@@ -1,7 +1,7 @@
 import torch
 from torch import nn
-import torch.nn.functional as F
 import numpy as np
+from general_arguments import genargs
 
 
 def softclip(tensor, min):
