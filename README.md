@@ -21,7 +21,11 @@
 Inference:
 </h4>
 <ul>
-<li>Install the github repository and run the file by running the command <b>python inference.py</b>
+<li>Install the github repository and run requirements file for installing the python packages</b>
+</ul>
+
+<ul>
+<li>Run the file to generate sample images by running the command <b>`python inference.py`</b>
 </ul>
 
 <h4>
