@@ -4,8 +4,8 @@
 <br />
 <!-- UPDATE -->
 <div align="center">
-  <h2 align="center"> Improving Image Generation using Conditional
- Variational AutoEncoders </h2>
+  <h2 align="center"> Improving Conditional VAE with approximation using
+Normalizing Flows </h2>
 </div>
 
 
@@ -16,6 +16,8 @@
 <div align='left'>
   The file inference.py generates sampled images from random latent spaces. The models can be trained using the train.py file.
 </div>
+
+<h4>Paper: <a href='https://arxiv.org/pdf/2511.08946'>Arxiv</h4>
 
 <h4>
 Inference:
